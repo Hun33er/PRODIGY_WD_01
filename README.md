@@ -33,7 +33,7 @@ The Caesar Cipher is a type of substitution cipher in which each letter in the p
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/caesar-cipher-program.git
+git clone https://github.com/Hun33er/PRODIGY_WD_01/caesar-cipher-program.git
 ```
 
 2. Navigate to the project directory:
@@ -78,7 +78,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Developed by [Your Name] as part of the Prodigy Info Tech Internship.
+Developed by [Hun33er] as part of the Prodigy Info Tech Internship.
 
 ---
 
